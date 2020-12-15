@@ -1,4 +1,4 @@
-# ITMO-Computer_Science_and_Programming
+# ИТМО Прикладная математика и информатика (КТ)
 
 ### Предметы:
 
